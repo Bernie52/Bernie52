@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bernie52
+- 👀 I’m interested in VBA and Python
+- 🌱 I’m currently learning VBA and Python
+- 📫 How to reach me: Email: kalirunning@gmail.com
